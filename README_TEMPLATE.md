@@ -1,6 +1,7 @@
-# Project Title
+**CREATE A TOKEN**
 
-Simple overview of use/purpose.
+THIS PROJECT IS A SIMPLE SOLIDITY PROGRAM TO CREATE A TOKEN 
+
 
 ## Description
 
